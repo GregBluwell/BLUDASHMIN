@@ -1,7 +1,7 @@
 # blubanq ~
 ## Modern UI/UX Business Showcase Landing Page
 
-> **REACT, Material UI, FullCalendar, Nivo Charts, Formik**
+> **REACT, Material UI, Full Calendar, Nivo Charts, Formik**
 
 ![react](https://i.ibb.co/Rvzz0xZ/react.png) &nbsp;
 ![react](https://i.ibb.co/0t3G8B0/tailwind.png)
