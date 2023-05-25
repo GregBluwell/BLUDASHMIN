@@ -79,8 +79,9 @@ const Sidebar = () => {
                 alignItems="center"
                 ml="15px"
               >
-                <Typography variant="h3" color={colors.grey[100]}>
-                  ADMINIS
+              
+                <Typography variant="h3" color={colors.grey[100]} sx={{fontWeight:'bold'}}>
+                  BLUDASHMIN
                 </Typography>
                 <IconButton onClick={() => setIsCollapsed(!isCollapsed)}>
                   <MenuOutlinedIcon />
@@ -94,23 +95,23 @@ const Sidebar = () => {
               <Box display="flex" justifyContent="center" alignItems="center">
                 <img
                   alt="profile-user"
-                  width="100px"
-                  height="100px"
-                  src={`../../assets/user.png`}
+                  width="95px"
+                  height="95px"
+                  src={`../../assets/user-gb-2.png`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
               <Box textAlign="center">
                 <Typography
-                  variant="h2"
+                  variant="h3"
                   color={colors.grey[100]}
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Ed Roh
+                  Greg Bluwell
                 </Typography>
-                <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                <Typography variant="h6" color={colors.greenAccent[500]}>
+                  Administrator
                 </Typography>
               </Box>
             </Box>
