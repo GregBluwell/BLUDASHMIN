@@ -1,5 +1,5 @@
 # Bludashmin ~
-## Admin Dashboard with Data Visualisation
+## Admin Dashboard with Data Visualisation (Light/Dark Mode)
 
 > **REACT, Material UI, Full Calendar, Nivo Charts, Formik**
 
