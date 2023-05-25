@@ -4,7 +4,7 @@
 > **REACT, Material UI, Full Calendar, Nivo Charts, Formik**
 
 ![react](https://i.ibb.co/Rvzz0xZ/react.png) &nbsp;
-![react](https://i.ibb.co/0t3G8B0/tailwind.png)
+![materialUI](https://i.ibb.co/vjMnwBC/material-UI.png) &nbsp;
 
 ![Bludashmin](https://i.ibb.co/QYV7Vzf/screenshot-localhost-3000-2023-05-25-11-00-17.png)
 
