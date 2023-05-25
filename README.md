@@ -1,5 +1,5 @@
 # blubanq ~
-## Modern UI/UX Business Showcase Landing Page
+## Admin Dashboard with Data Visualisation
 
 > **REACT, Material UI, Full Calendar, Nivo Charts, Formik**
 
