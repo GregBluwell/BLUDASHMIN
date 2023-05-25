@@ -1,4 +1,4 @@
-# blubanq ~
+# Bludashmin ~
 ## Admin Dashboard with Data Visualisation
 
 > **REACT, Material UI, Full Calendar, Nivo Charts, Formik**
