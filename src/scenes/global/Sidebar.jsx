@@ -131,7 +131,7 @@ const Sidebar = () => {
               color={colors.grey[300]}
               sx={{ m: "15px 0 5px 20px" }}
             >
-              Data
+              | Data
             </Typography>
             <Item
               title="Manage Team"
@@ -160,7 +160,7 @@ const Sidebar = () => {
               color={colors.grey[300]}
               sx={{ m: "15px 0 5px 20px" }}
             >
-              Pages
+              | Pages
             </Typography>
             <Item
               title="Profile Form"
@@ -189,7 +189,7 @@ const Sidebar = () => {
               color={colors.grey[300]}
               sx={{ m: "15px 0 5px 20px" }}
             >
-              Charts
+              | Charts
             </Typography>
             <Item
               title="Bar Chart"
@@ -221,6 +221,17 @@ const Sidebar = () => {
             />
           </Box>
         </Menu>
+        <Box>
+        <Typography
+              variant="h6"
+              color={colors.grey[200]}
+              className="credits"
+              sx={{ m: "30px 0 5px 20px", display:'flex', justifyContent:'center', alignItems:'center' }}
+            >
+              Made with <span className="credit_heart">&nbsp;♥&nbsp;</span> by <a href="https://gregbluwell.dev" target="_blank" >&nbsp;Greg Bluwell
+      </a>
+        </Typography>
+        </Box>
       </ProSidebar>
     </Box>
   );

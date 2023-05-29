@@ -15,6 +15,16 @@ body,
   position: relative;
 }
 
+.credits a {
+  color:red;
+  text-decoration: none;
+}
+
+.credit_heart,
+.credits a {
+  color:#4CCEAC !important;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
